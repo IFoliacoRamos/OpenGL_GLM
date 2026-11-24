@@ -1,0 +1,23 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+Debug/
+Release/
+x64/Debug/
+x64/Release/
+x86/Debug/
+x86/Release/
+
+# Archivos temporales
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
